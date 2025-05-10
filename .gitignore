@@ -1,0 +1,4 @@
+# Добавьте в .gitignore
+*.log
+*~
+.DS_Store
